@@ -13,30 +13,38 @@ function Issue(){
 
             {/*FIRST ROW*/}
             <div className="row Issues__FirstRow">
-                <div className="col-md-3"><img alt="issuephoto" src={Issue1} className="Issues__Picture"/></div>
-                <span className="Issues__Covid Issues__Name">Covid</span>
-    
-
-                <div className="col-md-3"><img alt="issuephoto" src={Issue2} className="Issues__Picture" /></div>
-                <span className="Issues__Hairfall Issues__Name">Hairfall</span>
-
-                <div className="col-md-3"><img alt="issuephoto" src={Issue3} className="Issues__Picture" /></div>
-                <span className="Issues__Acne Issues__Name">Acne</span>
-
-                <div className="col-md-3"><img alt="issuephoto" src={Issue4} className="Issues__Picture" /></div>
-                <span className="Issues__Diabetes Issues__Name">Diabetes</span>
+                <div className="col-md-3 Issues__column"><img alt="issuephoto" src={Issue1} className="Issues__Picture"/>
+                <div className="Issues__Name">Covid</div>
+                </div>
+                
+                <div className="col-md-3 Issues__column"><img alt="issuephoto" src={Issue2} className="Issues__Picture" />
+                <div className="Issues__Name">Hairfall</div>
+                </div>
+               
+                <div className="col-md-3 Issues__column"><img alt="issuephoto" src={Issue3} className="Issues__Picture" />
+                <div className="Issues__Name">Acne</div>
+                </div>
+                
+                <div className="col-md-3 Issues__column"><img alt="issuephoto" src={Issue4} className="Issues__Picture" />
+                <div className="Issues__Name">Diabetes</div>
+                </div>
+                
             </div>
             
             {/*SECOND ROW*/}
             <div className="row Issues__SecondRow">
-                <div className="col-md-4"><img alt="issuephoto" src={Issue4} className="Issues__Picture" /></div>
-                <span className="Issues__Kneepain Issues__Name">Knee Pain</span>
-
-                <div className="col-md-4"><img alt="issuephoto" src={Issue3} className="Issues__Picture" /></div>
-                <span className="Issues__KidneyStone Issues__Name">Kidney Stone</span>
-
-                <div className="col-md-4"><img alt="issuephoto" src={Issue2} className="Issues__Picture" /></div>
-                <span className="Issues__WeightLoss Issues__Name">Weight Loss</span>
+                <div className="col-md-4 Issues__column"><img alt="issuephoto" src={Issue4} className="Issues__Picture" />
+                <div className="Issues__Name">Knee Pain</div>
+                </div>
+                
+                <div className="col-md-4 Issues__column"><img alt="issuephoto" src={Issue3} className="Issues__Picture" />
+                <div className="Issues__Name">Kidney Stone</div>
+                </div>
+                
+                <div className="col-md-4 Issues__column"><img alt="issuephoto" src={Issue2} className="Issues__Picture" />
+                <div className="Issues__Name">Weight Loss</div>
+                </div>
+                
             </div>
 
         </div>

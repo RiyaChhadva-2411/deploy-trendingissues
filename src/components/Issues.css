@@ -21,11 +21,11 @@
     position: relative;
 }
 .Issues__FirstRow{
-    margin-left: 157px !important;
+    margin-left: 0px !important;
 }
 .Issues__SecondRow{
     margin-top: 52px;
-    margin-left: 321px !important;
+    margin-left: 175px !important;
     margin-right:140px;
 }
 .Issues__Name{
@@ -36,27 +36,12 @@
     font-size: 26px;
     line-height: 31px;
     color: #000000;
-    margin-top: 10.5rem;
-    
+    margin-top:10.5rem;
+    text-align: center;
+    display: flex;
+    justify-content: start;
 }
-.Issues__Covid{
-    margin-left: 35px;
-}
-.Issues__Hairfall{
-    margin-left: 410px !important;
-}
-.Issues__Diabetes{
-    margin-left : 780px;
-}
-.Issues__Acne{
-    margin-left : 1180px;
-}
-.Issues__KidneyStone{
-    margin-left:398px;
-}
-.Issues__WeightLoss{
-    margin-left: 800px;
-}
-.Issues__Kneepain{
-    margin-left:15px;
+.Issues__column{
+    display: flex;
+    justify-content: center;
 }
