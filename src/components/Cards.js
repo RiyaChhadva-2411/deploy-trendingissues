@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Cards.css";
-import svg1 from "../svg/arrow.svg";
+// import svg1 from "../svg/arrow.svg";
 import doctor1 from "../images/doctor1.png";
 import doctor2 from "../images/doctor2.png";
 import doctor3 from "../images/doctor3.png";
@@ -9,9 +9,9 @@ import doctor4 from "../images/doctor4.png";
 function Cards(){
     return(
         <div>
-        <div className="Cards__heading">My Doctors<span className="fa fa-angle-right Cards__svg1" /></div>
+        <div className="Cards__heading">My Doctors</div>
         <div className="container-fluid">
-
+        {/* <span className="fa fa-angle-right Cards__svg1" /> */}
             {/*FIRST ROW*/}
             <div className="row Cards__FirstRow">
             

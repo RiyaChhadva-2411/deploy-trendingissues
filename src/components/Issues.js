@@ -8,9 +8,9 @@ import Issue4 from "../images/issue4.png";
 function Issue(){
     return(
         <div>
-        <div className="Issues__heading">Trending Issues<span className="fa fa-angle-right Issues__svg2" /></div>
+        <div className="Issues__heading">Trending Issues</div>
         <div className="container-fluid Issues__container">
-
+        {/* <span className="fa fa-angle-right Issues__svg2" /> */}
             {/*FIRST ROW*/}
             <div className="row Issues__FirstRow">
                 <div className="col-md-3 Issues__column"><img alt="issuephoto" src={Issue1} className="Issues__Picture"/>

@@ -8,9 +8,9 @@ import image4 from "../images/doctor4.png";
 function Speciality(){
     return(
         <div>
-        <div className="Speciality__heading">Trending Specialities<span className="fa fa-angle-right Speciality__svg3" /></div>
+        <div className="Speciality__heading">Trending Specialities</div>
         <div className="container-fluid Speciality__container">
-
+        {/* <span className="fa fa-angle-right Speciality__svg3" /> */}
             {/*FIRST ROW*/}
             <div className="row Speciality__FirstRow">
                 <div className="col-md-3 Speciality__column"><img alt="specialityphoto" src={image1} className="Speciality__Picture"/>
