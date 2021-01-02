@@ -9,9 +9,9 @@ import doctor4 from "../images/doctor4.png";
 function Cards(){
     return(
         <div>
-        <div className="Cards__heading">My Doctors</div>
+        <div className="Cards__heading">My Doctors<div className="fa fa-angle-right Cards__svg1" /> </div>
         <div className="container-fluid">
-        {/* <span className="fa fa-angle-right Cards__svg1" /> */}
+         
             {/*FIRST ROW*/}
             <div className="row Cards__FirstRow">
             

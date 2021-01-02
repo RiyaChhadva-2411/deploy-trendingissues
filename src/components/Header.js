@@ -41,6 +41,7 @@ function Header(){
 
             {/*Parallex scrolling effect*/}
             <div className="parallex">
+                {/* <img src={svg} alt="svgimage" className="Header__svgimage" /> */}
                 <div className="input form-group search-field">
                     <span class="fa fa-search form-control-feedback"></span>
                     <input type="text" className="search form-control" placeholder="Search for Doctor's, Clinic's, Services & more.." />

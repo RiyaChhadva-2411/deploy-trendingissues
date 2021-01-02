@@ -10,9 +10,9 @@
     padding-top: 3rem;
     margin-bottom: 40px;
 }
-/* .Cards__svg1{
-    margin-left: 1175px !important;
-} */
+  .Cards__svg1{
+    margin-left:1000px !important;
+ }
 .Cards__LeftNames{
     position:absolute;
     top:0;

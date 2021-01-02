@@ -1,5 +1,5 @@
 /*Desktop view above 1200 screen size*/
- 
+
 .navbar{
     background-color: #000000;
     height: 100px;
@@ -20,7 +20,7 @@
     color: #ffffff;
 }
 .parallex{
-    min-height: 512px;
+     min-height: 513px;
     background-image: url('../svg/mainsvg.svg');
     background-position: center;
     background-size: 100%;
@@ -28,6 +28,10 @@
     background-attachment: fixed;
     padding-top: 315px;
 }
+/* .Header__svgimage{
+    width: 100%;
+    height: 100%;
+} */
 .search-field .form-control{
     padding-left: 2.375rem;
 }
