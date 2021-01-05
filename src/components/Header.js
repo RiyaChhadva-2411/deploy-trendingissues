@@ -4,8 +4,8 @@ import svg from "../svg/mainsvg.svg";
 function Header(){
     return(
         <div>
-            <nav className="navbar navbar-expand-lg sticky-top w-100">
-                <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">\
+            <nav className="navbar navbar-expand-md sticky-top w-100">
+                <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                   <span className="navbar-toggler-icon"></span>
                 </button>
 

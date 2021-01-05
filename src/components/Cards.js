@@ -16,7 +16,7 @@ function Cards(){
             <div className="row Cards__FirstRow">
             
             {/*First Column of First Row*/}
-            <div className="col-md-6">
+            <div className="col-md-6 col-sm-12">
                 <div>
                     <img className="Cards__LeftDoctors" src={doctor1} alt="doctor1"/>
                 </div>
@@ -32,7 +32,7 @@ function Cards(){
             </div>
 
             {/*Second Column of First Row*/}
-            <div className="col-md-6 ">
+            <div className="col-md-6 col-sm-12 ">
             <div>
                     <img className="Cards__RightDoctors" src={doctor2} alt="doctor1"/>
                 </div>
@@ -53,7 +53,7 @@ function Cards(){
             <div className="row Cards__SecondRow">
 
                 {/*First column of Second rwo*/}
-                <div className="col-md-6">
+                <div className="col-md-6 col-sm-12">
                 <div>
                     <img className="Cards__LeftDoctors" src={doctor3} alt="doctor1"/>
                 </div>
@@ -69,7 +69,7 @@ function Cards(){
                 </div>
                 
                 {/*Second column of second row*/}
-                <div className="col-md-6">
+                <div className="col-md-6 col-sm-12">
                 <div>
                     <img className="Cards__RightDoctors" src={doctor4} alt="doctor1"/>
                 </div>
