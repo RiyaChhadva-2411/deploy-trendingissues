@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/deploy-trendingissues/static/css/main.b6a1dd0c.chunk.css",
+    "main.css": "/deploy-trendingissues/static/css/main.fbc3277f.chunk.css",
     "main.js": "/deploy-trendingissues/static/js/main.54a71b39.chunk.js",
     "main.js.map": "/deploy-trendingissues/static/js/main.54a71b39.chunk.js.map",
     "runtime-main.js": "/deploy-trendingissues/static/js/runtime-main.fd3a5de6.js",
@@ -8,7 +8,7 @@
     "static/js/2.8baba585.chunk.js": "/deploy-trendingissues/static/js/2.8baba585.chunk.js",
     "static/js/2.8baba585.chunk.js.map": "/deploy-trendingissues/static/js/2.8baba585.chunk.js.map",
     "index.html": "/deploy-trendingissues/index.html",
-    "static/css/main.b6a1dd0c.chunk.css.map": "/deploy-trendingissues/static/css/main.b6a1dd0c.chunk.css.map",
+    "static/css/main.fbc3277f.chunk.css.map": "/deploy-trendingissues/static/css/main.fbc3277f.chunk.css.map",
     "static/js/2.8baba585.chunk.js.LICENSE.txt": "/deploy-trendingissues/static/js/2.8baba585.chunk.js.LICENSE.txt",
     "static/media/doctor1.f8a675ac.png": "/deploy-trendingissues/static/media/doctor1.f8a675ac.png",
     "static/media/doctor2.af7d3a8c.png": "/deploy-trendingissues/static/media/doctor2.af7d3a8c.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.fd3a5de6.js",
     "static/js/2.8baba585.chunk.js",
-    "static/css/main.b6a1dd0c.chunk.css",
+    "static/css/main.fbc3277f.chunk.css",
     "static/js/main.54a71b39.chunk.js"
   ]
 }
